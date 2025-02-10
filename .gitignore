@@ -1,0 +1,21 @@
+# Python
+__pycache__
+dist
+.mypy_cache
+.venv
+*.egg-info
+*.pyc
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+Session.vim
+
+# Django
+testing
+manage.py
+
+# Other
+changelog.latest.md
